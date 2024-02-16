@@ -11,7 +11,7 @@ cx = mc.connect(
 #verificar se a conexao foi estabelecida
 print(cx)
 
-# Criação de variáveis para o usuário passar os dados do cliente  para o cadastro
+# Criação de variáveis para o usuário passar os dados do cliente  para o cadastroca
 nome        = input("Digite o nome do cliente:")
 email       = input("Digite o email do cliente:")
 telefone    = input("Digite o telefone do cliente:")
